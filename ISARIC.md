@@ -1,7 +1,7 @@
 **ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Study**
 
 Website: https://isaric4c.net/
-Data Dictionary Codebook: [Click Here](ISARIC/CCP_REDCap_ISARIC_data_dictionary_codebook.pdf)
+Data Dictionary Codebook: [Click Here](/isaric4c/wiki/tree/master/ISARIC)
 
 The ISARIC study collects a wide range of information from patients either hospitalised from or with COVID-19 during the pandemic.
 
