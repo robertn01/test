@@ -1,10 +1,8 @@
-See bottom for notes on variables marked _*n_
-
 | Variable / Field Name      |  Section Header                                                                 |  Field Type  |  Field Label                                                                                   |  Choices or Calculations                      | Comments                  |
 |----------------------------|---------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------|
-|  viralpneu\_ceoccur _*1_        |  COMPLICATIONS: At any time during hospitalisation did the patient experience:  |  radio       |  Viral Pneumonia                                                                               |  1, Yes ; 2, No ; 3, N/A                      |                           |
+|  viralpneu\_ceoccur        |  COMPLICATIONS: At any time during hospitalisation did the patient experience:  |  radio       |  Viral Pneumonia                                                                               |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  bactpneu\_ceoccur         |                                                                                 |  radio       |  Bacterial pneumonia                                                                           |  1, Yes ; 2, No ; 3, N/A                      | Comments about this field |
-|  ards\_ceoccur _*2_             |                                                                                 |  radio       |  Acute Respiratory Syndrome                                                                    |  1, Yes ; 2, No ; 3, N/A                      |                           |
+|  ards\_ceoccur             |                                                                                 |  radio       |  Acute Respiratory Syndrome                                                                    |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  cryptogenic\_ceterm       |                                                                                 |  radio       |  Cryptogenic organizing pneumonia (COP)                                                        |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  pneumothorax\_ceterm      |                                                                                 |  radio       |  Pneumothorax                                                                                  |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  pleuraleff\_ceterm        |                                                                                 |  radio       |  Pleural effusion                                                                              |  1, Yes ; 2, No ; 3, N/A                      |                           |
@@ -35,7 +33,3 @@ See bottom for notes on variables marked _*n_
 |  other\_ceoccur            |                                                                                 |  radio       |  Other                                                                                         |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  other\_ceterm             |                                                                                 |  text        |  If "Other"; Specify                                                                           |                                               |                           |
 |  complications\_complete   |  Form Status                                                                    |  dropdown    |  Complications section complete?                                                               |  0, Incomplete ; 1, Unverified ; 2, Complete  |
-
-
-_*1_ this variable doesn't have much data
-_*2_ ARDS isn't great either
