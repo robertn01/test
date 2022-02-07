@@ -21,7 +21,7 @@ Contents
 <li>[[Inclusion Criteria|Inclusion Criteria]]</li>
 <li>[[Demographics|Demographics]]</li>
 <li>[[Onset and Admission|Onset and Admission]]</li>
-<li>[[Admission Signs & Symptoms|Admission Signs & Symptoms]]</li>
+<li>[[Admission Signs and Symptoms|Admission Signs and Symptoms]]</li>
 <li>[[Comorbidities|Comorbidities]]</li>
 <li>[[Preadmission Treatment|Preadmission Treatment]]</li>
 <li>[[Preadmission Medication|Preadmission Medication]]</li>
