@@ -3,8 +3,7 @@
 | sex | DEMOGRAPHICS | radio | Sex at birth | 1, Male ; 2, Female ; 3, Not specified |
 | agedatyn |   | yesno | Birth date known | 1, Yes ; 0, No |
 | agedat |   | text (date\_dmy) | Birth date |   |
-| calc\_age |   | calc | Calculated age (comparing DOB with DOE) - inaccurate with 29th Feb Dates | rounddown(datediff(\[agedat\], \[dsstdat\],  
-"y", "dmy", true)) |
+| calc\_age |   | calc | Calculated age (comparing DOB with DOE) - inaccurate with 29th Feb Dates | rounddown(datediff(\[agedat\], \[dsstdat\], "y", "dmy", true)) |
 | age\_estimateyears |   | text | Age/estimated age |   |
 | age\_estimateyearsu |   | dropdown | Age/estimated age unit | 1, Months ; 2, Years |
 | postcode |   | text | Postcode |   |
