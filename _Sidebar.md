@@ -20,7 +20,7 @@ Contents
 <li>[[Tier|Tier]]</li>
 <li>[[Inclusion Criteria|Inclusion Criteria]]</li>
 <li>[[Demographics|Demographics]]</li>
-<li>[[Onset &amp; Admission|Onset &amp; Admission]]</li>
+<li>[[Onset and Admission|Onset and Admission]]</li>
 <li>[[Admission Signs & Symptoms|Admission Signs & Symptoms]]</li>
 <li>[[Comorbidities|Comorbidities]]</li>
 <li>[[Preadmission Treatment|Preadmission Treatment]]</li>
