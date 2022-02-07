@@ -1,6 +1,8 @@
+See bottom for notes on variables marked _*n_
+
 | Variable / Field Name      |  Section Header                                                                 |  Field Type  |  Field Label                                                                                   |  Choices or Calculations                      | Comments                  |
 |----------------------------|---------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------|
-|  vrialpneu\_ceoccur*        |  COMPLICATIONS: At any time during hospitalisation did the patient experience:  |  radio       |  Viral Pneumonia                                                                               |  1, Yes ; 2, No ; 3, N/A                      |                           |
+|  viralpneu\_ceoccur_*1_        |  COMPLICATIONS: At any time during hospitalisation did the patient experience:  |  radio       |  Viral Pneumonia                                                                               |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  bactpneu\_ceoccur         |                                                                                 |  radio       |  Bacterial pneumonia                                                                           |  1, Yes ; 2, No ; 3, N/A                      | Comments about this field |
 |  ards\_ceoccur             |                                                                                 |  radio       |  Acute Respiratory Syndrome                                                                    |  1, Yes ; 2, No ; 3, N/A                      |                           |
 |  cryptogenic\_ceterm       |                                                                                 |  radio       |  Cryptogenic organizing pneumonia (COP)                                                        |  1, Yes ; 2, No ; 3, N/A                      |                           |
@@ -35,4 +37,4 @@
 |  complications\_complete   |  Form Status                                                                    |  dropdown    |  Complications section complete?                                                               |  0, Incomplete ; 1, Unverified ; 2, Complete  |
 
 
-*this variable doesn't have much data
+_*1_ this variable doesn't have much data
