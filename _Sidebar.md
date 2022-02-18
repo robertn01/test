@@ -140,3 +140,15 @@ Contents
 <ul>
 <li>
 <details open>
+<summary>Additional Fields</summary>
+<ul>
+</ul>
+</details> 
+</li>
+<li>
+<details open>
+<summary>Case Report Form Definitions</summary>
+<ul>
+</li>
+</details> 
+</ul>
