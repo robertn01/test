@@ -1,7 +1,7 @@
 | Database Field Name |         Field Description          |   Field Group  | Sensitive Field | Identifiable Field | Field Type | Field Length |  Comment |                                                                                                                                                                                                                                                                                                             
 |:-------------------:|:----------------------------------:|:--------------:|:---------------:|:------------------:|:----------:|:------------:|:---------------------:|
 | STUDY_ID |    |    |    |     |     |     |     |
-| SEX |    |    |    |     |     |     |     |     
+| SEX |  0  Not Known; 1  Male; 2  Female; 9  Not specified  |  Patients Table  |  No  |   No  |   String  |   1  |     |     
 | POSTCODE |    |    |    |     |     |     |     |
 | LSOA |    |    |    |     |     |     |     |
 | DATE_OF_DEATH |    |    |    |     |     |     |     |
