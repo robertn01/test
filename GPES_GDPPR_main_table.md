@@ -1,25 +1,25 @@
 | Database Field Name |         Field Description          |   Field Group  | Sensitive Field | Identifiable Field | Field Type | Field Length |  Comment |                                                                                                                                                                                                                                                                                                             
 |:-------------------:|:----------------------------------:|:--------------:|:---------------:|:------------------:|:----------:|:------------:|:---------------------:|
-| STUDY_ID |    |    |    |     |     |     |     |
-| SEX |  0  Not Known; 1  Male; 2  Female; 9  Not specified  |  Patients Table  |  No  |   No  |   String  |   1  |     |     
-| POSTCODE |    |    |    |     |     |     |     |
-| LSOA |    |    |    |     |     |     |     |
-| DATE_OF_DEATH |    |    |    |     |     |     |     |
-| ETHNIC |    |    |    |     |     |     |     |
-| PRACTICE |    |    |    |     |     |     |     |
-| GP_SYSTEM_SUPPLIER |    |    |    |     |     |     |     |
-| PROCESSED_TIMESTAMP |    |    |    |     |     |     |     |
-| REPORTING_PERIOD_END_DATE |    |    |    |     |     |     |     |
-| DATE |    |    |    |     |     |     |     |
-| RECORD_DATE |    |    |    |     |     |     |     |
-| CODE |    |    |    |     |     |     |     |
-| SENSITIVE_CODE |    |    |    |     |     |     |     |
-| EPISODE_CONDITION |    |    |    |     |     |     |     |
-| EPISODE_PRESCRIPTION |    |    |    |     |     |     |     |
-| VALUE1_CONDITION |    |    |    |     |     |     |     |
-| VALUE2_CONDITION |    |    |    |     |     |     |     |
-| VALUE1_PRESCRIPTION |    |    |    |     |     |     |     |
-| VALUE2_PRESCRIPTION |    |    |    |     |     |     |     |
-| LINKS |    |    |    |     |     |     |     |
-| EPCC_DATE_RECEIVED |    |    |    |     |     |     |     |
+| STUDY_ID |    |    |    |     |     |     |   To be added by EPCC ?   |
+| SEX |  0 - Not Known; 1 - Male; 2 - Female; 9 - Not specified  |  Patients Table  |  No  |   No  |   String  |   1  |     |     
+| POSTCODE |  Postcode of current address  |  Patients Table  |  Yes  |  Yes   |   String  |   8  |     |
+| LSOA |  The Lower Layer Super Output Area (LSOA) derived from postcode and obtained by lookup of an appropriate mapping resource e.g. https://digital.nhs.uk/services/organisation-data-service/data-downloads/office-for-national-statistics-data  | Patients Table  |  No  |  No   |  String   |  9   |     |
+| DATE_OF_DEATH |  Date of death of patient  |  Patients Table  |  Yes  |  Yes   |  Date  |  CCYY-MM-DD   |     |
+| ETHNIC |  Ethnic origin (as per the code set within the NHS Data Dictionary)  | Patients Table | No |  No |  String   |  2   |     |
+| PRACTICE |  National practice code used to identify the GP practice  | Patients Table | No |  No |  String   |  8 |     |
+| GP_SYSTEM_SUPPLIER |  Name of GP system supplier of the source patient record  |  Metadata  |  No  |  No   |  String   |   35  |     |
+| PROCESSED_TIMESTAMP |  Date that the extract was processed  |  Metadata  |  No  |  No   |  Time (HH24:MI:ss)   |     |     |
+| REPORTING_PERIOD_END_DATE |  Date that the extract was performed on the source patient record  |  Metadata  |  No  |  No   |  Date   | CCYY-MM-DD  |     |
+| DATE |  Date to which journal item applies (For medication date of issue (if EPISODE A or I) or authorisation (if EPISODE R))  |  Journals Table  |  No  |  No  |  Date   |  CCYY-MM-DD   |     |
+| RECORD_DATE |  Date on which recorded (For example, if an entry is made during a consultation on 3-Jan-1998 noting a past history of appendectomy on 1-Nov-1978: RECORD_DATE="1998-01-03", DATE="1978-11-01")  |  Journals Table  |   No  |  No  |  Date   |  CCYY-MM-DD  |     |
+| CODE |  SNOMED code value indicating the nature of the characteristic, event or intervention recorded  |  Journals Table  |  No  |  No  | String  |  Coded value. min n6 ma n18  |     |
+| SENSITIVE_CODE |  SNOMED code value, which is sensitive in nature, indicating the nature of the characteristic, event or intervention recorded  |  Journals Table  |  Yes  |  No   |   String  |  Coded value. min n6 ma n18  |     |
+| EPISODE_CONDITION |  Whether first or subsequent episode of the coded condition: F - First; N - New; O - Other; D - Cause of Death  |  Journals Table  |  No  |  No   |   String  |  1   |     |
+| EPISODE_PRESCRIPTION |  Whether a prescription for the coded item is repeat or acute: A - Acute (one-off issue); I - Issue of repeat; R - Repeat authorisation  |  Journals Table  |  No  |  No   |   String  |  1   |     |
+| VALUE1_CONDITION |  First numeric value (in a record with CODE for investigation, measurement or result, e.g, With CODE for weight VALUE1 is the weight in Kg, with CODE for blood pressure VALUE1 is the systolic pressure in mmHg)  |  Journals Table  |  No  |  No   |  Numeric   | Numeric |     |
+| VALUE2_CONDITION |  Second numeric value (in a record with CODE for blood pressure e.g. diastolic pressure)  |  Journals Table  |  No  |No     | Numeric    |  Numeric   |     |
+| VALUE1_PRESCRIPTION |  Amount prescribed as number of tablets, capsules, etc. or volume of liquid in ml.  |  Journals Table  |  No  | No    | Numeric    | Numeric    |     |
+| VALUE2_PRESCRIPTION |  Daily dose prescribed as number of tablets, capsules, etc. or volume of liquid in ml.  |  Journals Table  |  No  | No    |  Numeric   |  Numeric   |     |
+| LINKS |  A list of zero, one or many link numbers. A link number is shared by records for the same patient that have been explicitly linked in some way by the use. For example, problem-linkage, links between disorders and associated treatments and outcomes.  |  Journals Table  |  No  |  No   |  Numeric   |   Numeric  |     |
+| EPCC_DATE_RECEIVED |    |    |    |     |     |     |  To be added by EPCC   |
                                                                                                                                                                                                                                                                                                                  
