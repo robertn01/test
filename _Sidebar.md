@@ -149,6 +149,6 @@ Contents
 <details open>
 <summary>Case Report Form Definitions</summary>
 <ul>
-</li>
+<li>[[GPES_GDPPR_main_table|GPES_GDPPR_main_table]]</li>
 </details> 
 </ul>
