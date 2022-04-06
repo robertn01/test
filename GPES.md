@@ -2,9 +2,9 @@
 
 The General Practice Extraction Service (GPES) collects information for a wide range of purposes, including providing GP payments. It works with the Calculating Quality Reporting Service (CQRS) and GP clinical systems as part of the GP Collections service.
 
- * [Web source 1][general-practice-extraction-service]
+ * Source 1: [General Practice Extraction Service][general-practice-extraction-service]
 
- * [Web source 2][gpes-data-for-pandemic-planning-and-research]
+ * Source 2: [General Practice Extraction Service (GPES)][gpes-data-for-pandemic-planning-and-research]
 
 
 [general-practice-extraction-service]: https://digital.nhs.uk/services/general-practice-extraction-service
