@@ -6,4 +6,5 @@ Studies included in this wiki include:
 <summary>[[ISARIC|ISARIC]]</summary>
 <summary>[[PHOSP|PHOSP]]</summary>
 <summary>[[GPES|GPES]]</summary>
+<summary>[[APC|APC]]</summary>
 
