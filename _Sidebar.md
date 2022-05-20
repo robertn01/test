@@ -168,6 +168,5 @@ Contents
 <summary>Case Report Form Definitions</summary>
 <ul>
 <li>[[HES APC main table|HES_APC_main_table]]</li>
-<li>[[HES APC table|HES_main_table]]</li>
 </details> 
 </ul>
