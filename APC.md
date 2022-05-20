@@ -8,6 +8,8 @@ HES contains APC data from 1 April 1989-90. Over the years, there have been seve
 
 The above repository also contains information on the structural metadata, for example, explanations of the various forms and events that compose the data are found here. Users of this wiki are encouraged to read through this additional repository to gain further insight into the data.
 
+Consult our own Metadata Catalogue for the [[APC|HES_APC_main_table]] table.
+
 Web references:
   *  [GOV.UK /  Hospital Episode Statistics (HES): Admitted patient care](https://data.gov.uk/dataset/e5b6395f-5868-4a20-97e5-6dadb7a9877a/hospital-episode-statistics-hes-admitted-patient-care-diagnoses) 
   *  [Hospital Admitted Patient Care Activity](https://digital.nhs.uk/data-and-information/publications/statistical/hospital-admitted-patient-care-activity)
