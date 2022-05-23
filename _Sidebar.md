@@ -6,6 +6,7 @@ Contents
 <details open>
 <summary>Additional Fields</summary>
 <ul>
+<li>[[ISARIC Variables Added By REDCap|ISARIC Variables Added By REDCap]]</li>
 <li>[[ISARIC Variables Added During Cleaning|ISARIC Variables Added During Cleaning]]</li>
 </ul>
 </details> 
@@ -54,6 +55,7 @@ Contents
 <details open>
 <summary>Additional Fields</summary>
 <ul>
+<li>[[PHOSP Variables Added By REDCap|PHOSP Variables Added By REDCap]]</li>
 <li>[[PHOSP Variables Added During Cleaning|PHOSP Variables Added During Cleaning]]</li>
 </ul>
 </details> 
