@@ -173,21 +173,3 @@ Contents
 </details> 
 </ul>
 
-
-<details open>
-<summary>[[APC|APC]]</summary>
-<ul>
-<li>
-<details open>
-<summary>Additional Fields</summary>
-<ul>
-</ul>
-</details> 
-</li>
-<li>
-<details open>
-<summary>Case Report Form Definitions</summary>
-<ul>
-<li>[[balh|blah_main_table]]</li>
-</details> 
-</ul>
