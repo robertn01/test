@@ -11,7 +11,7 @@ Consult our own Metadata Catalogue for either of the following tables:
   *  [[IAPT main table|IAPT_main_table]] 
   *  [[IAPT Appointment Table|IAPT_appointment_table]]
   *  [[IAPT Assessments Table|IAPT_assessments_table]]
-  *  [[IAPT Disability Table|IAPTY_disability_table]]
+  *  [[IAPT Disability Table|IAPT_disability_table]]
 
 Web references:
 
