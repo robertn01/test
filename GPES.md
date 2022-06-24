@@ -8,7 +8,7 @@ The General Practice Extraction Service (GPES) collects information for a wide r
 
 [ _Reference [Data Dictionary](https://github.com/robertn01/ODAP_isaric4c_wiki/blob/main/supplementary_docs/GPES_data_dictionary_gdppr_data_items_v2.pdf)_ ]
 
-Consult our own Metadata Catalogue for the [[GPES|GPES_GDPPR_main_table]] table.
+Consult our own Metadata Catalogue for the [[GPES|GPES_GDPPR_main_table]] main table.
 
 [general-practice-extraction-service]: https://digital.nhs.uk/services/general-practice-extraction-service
 [gpes-data-for-pandemic-planning-and-research]: https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data
