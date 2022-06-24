@@ -188,6 +188,9 @@ Contents
 <summary>Case Report Form Definitions</summary>
 <ul>
 <li>[[IAPT main table|IAPT_main_table]]</li>
+<li>[[IAPT appointment table|IAPT_appointment_table]]</li>
+<li>[[IAPT assessments table|IAPT_assessments_table]]</li>
+<li>[[IAPT disability table|IAPT_disability_table]]</li>
 </details> 
 </ul>
 
