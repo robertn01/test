@@ -9,4 +9,5 @@ Studies included in this wiki include:
 <summary>[[APC|APC]]</summary>
 <summary>[[IAPT|IAPT]]</summary>
 <summary>[[A&E|A&E]]</summary>
+<summary>[[NIMS|NIMS]]</summary>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
