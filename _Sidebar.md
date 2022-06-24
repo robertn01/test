@@ -213,6 +213,24 @@ Contents
 </ul>
 
 <details open>
+<summary>[[NIMS|NIMS]]</summary>
+<ul>
+<li>
+<details open>
+<summary>Additional Fields</summary>
+<ul>
+</ul>
+</details> 
+</li>
+<li>
+<details open>
+<summary>Case Report Form Definitions</summary>
+<ul>
+<li>[[NIMS main table|NIMS_main_table]]</li>
+</details> 
+</ul>
+
+<details open>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
 <ul>
 <li>
