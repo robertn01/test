@@ -6,7 +6,7 @@ The vaccination and event data feeds into the National Immunisation Service in r
 
 A near real-time dashboard is available for monitoring.
 
-Consult our own Metadata Catalogue for the NIMS main table.
+Consult our own Metadata Catalogue for the [NIMS](https://github.com/isaric4c/wiki/wiki/NIMS_main_table) main table.
 
 
 
