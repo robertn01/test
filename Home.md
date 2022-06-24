@@ -10,4 +10,5 @@ Studies included in this wiki include:
 <summary>[[IAPT|IAPT]]</summary>
 <summary>[[A&E|A&E]]</summary>
 <summary>[[NIMS|NIMS]]</summary>
+<summary>[[ECDS|ECDS]]</summary>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
