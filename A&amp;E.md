@@ -2,7 +2,7 @@
 
 ! Add brief description !
 
-Consult our own Metadata Catalogue for the [[A&E|AE_main_table]] table.
+Consult our own Metadata Catalogue for the [[A&E|AE_main_table]] main table.
 
 Web references:
 
