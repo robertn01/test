@@ -10,6 +10,6 @@ Consult our own Metadata Catalogue for the [NIMS](https://github.com/isaric4c/wi
 
 
 
-## Main references:
+Web references:
 
 *  [NHS Digital - National Immunisation Management Service (NIMS) app](https://digital.nhs.uk/coronavirus/vaccinations/training-and-onboarding/point-of-care/national-immunisation-management-service-nims-app)
