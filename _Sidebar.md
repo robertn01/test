@@ -44,8 +44,7 @@ Contents
 </ul>
 </details> 
 </li>
-</ul>
-</details> 
+
 
 <li>
 <details open>
@@ -60,6 +59,8 @@ Contents
 </ul>
 </details> 
 </li>
+</ul>
+</details> 
 
 
 <details open>
