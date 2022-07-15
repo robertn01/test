@@ -331,7 +331,7 @@ Contents
 
 
 <details open>
-<summary>[[COG_UK_VOC|COG UK VOC]]</summary>
+<summary>[[COG_UK_VOC|COG_UK_VOC]]</summary>
 <ul>
 <li>
 <details open>
