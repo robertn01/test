@@ -47,6 +47,20 @@ Contents
 </ul>
 </details> 
 
+<li>
+<details open>
+<summary>Research studies</summary>
+<ul>
+<li>[[ISARIC Research Clean table|ISARIC_Research_clean_table]]</li>
+<li>[[ISARIC Research Oneline table|ISARIC_Research_oneline_table]]</li>
+<li>[[ISARIC Research Outcome table|ISARIC_Research_outcome_table]]</li>
+<li>[[ISARIC Research Surv table|ISARIC_Research_surv_table]]</li>
+<li>[[ISARIC Research Topline table|ISARIC_Research_topline_table]]</li>
+<li>[[ISARIC Research Treatment table|ISARIC_Research_treatment_table]]</li>
+</ul>
+</details> 
+</li>
+
 
 <details open>
 <summary>[[PHOSP|PHOSP]]</summary>
