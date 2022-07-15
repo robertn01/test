@@ -24,7 +24,7 @@ Consult our own Metadata Catalogue for either of the following tables:
 
   *  [[Vaccination status table 1|VaccStatus_table_1]]
   *  [[Vaccination status table 2|VaccStatus_table_2]]
-  *  [[Vaccination adverse reactions table 2|VaccAR_table_2]]
+  *  [[Vaccination adverse reactions table|VaccAR_table]]
 
 Web references:
 
