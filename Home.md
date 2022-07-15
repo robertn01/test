@@ -16,4 +16,5 @@ Studies included in this wiki include:
 <summary>[[SGSS|SGSS]]</summary>
 <summary>[[VACCINATION|VACCINATION]]</summary>
 <summary>[[COG_UK_VOC|COG_UK_VOC]]</summary>
+<summary>[[SGTF|SGTF]]</summary>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
