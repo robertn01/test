@@ -296,6 +296,25 @@ Contents
 </details> 
 </ul>
 
+<details open>
+<summary>[[SGSS|SGSS]]</summary>
+<ul>
+<li>
+<details open>
+<summary>Additional Fields</summary>
+<ul>
+</ul>
+</details> 
+</li>
+<li>
+<details open>
+<summary>Case Report Form Definitions</summary>
+<ul>
+<li>[[SGSS|SGSS_main_table]]</li>
+</details> 
+</ul>
+
+
 
 <details open>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
