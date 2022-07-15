@@ -4,8 +4,8 @@ The National Diabetes Audit (NDA) Programme was originally developed to help imp
 
 The NDA Core Audit data table is including NDA core, Type 1, Adolescent and Young Adult (AYA), Young Type 2 and Diabetes Prevention Programme.
 
-
-Aims and objectives of the NDA
+<br></br>
+**Aims and objectives of the NDA**
 
 The NDA helps improve the quality of diabetes care by enabling participating NHS services and organisations to:
 
