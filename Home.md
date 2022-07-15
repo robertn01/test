@@ -14,4 +14,5 @@ Studies included in this wiki include:
 <summary>[[MHS|MHS]]</summary>
 <summary>[[NDA|NDA]]</summary>
 <summary>[[SGSS|SGSS]]</summary>
+<summary>[[VACCINATION|VACCINATION]]</summary>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
