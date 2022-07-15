@@ -13,4 +13,5 @@ Studies included in this wiki include:
 <summary>[[ECDS|ECDS]]</summary>
 <summary>[[MHS|MHS]]</summary>
 <summary>[[NDA|NDA]]</summary>
+<summary>[[SGSS|SGSS]]</summary>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
