@@ -1,10 +1,12 @@
-# NHS (England) Digital - Covid-19 Genomics UK Consortium – Variants of Concern (COG UK VoC)
+# Covid-19 Genomics UK Consortium – Variants of Concern (COG UK VoC)
 
 Consult our own Metadata Catalogue for the [[COG UK VOC|COGUK_VOC_main_table]] main table.
 
 
 Web references:
 
-*  [NHS Digital - National Diabetes Audit Programme](https://digital.nhs.uk/data-and-information/clinical-audits-and-registries/national-diabetes-audit)
+*  [A UK-wide collaborative network for SARS-CoV-2 genomics, research and training](https://www.cogconsortium.uk/)
 
-*  [NHS Digital - National Diabetes Audit](https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit)
+*  [COG UK VOC Dashboard](https://sars2.cvr.gla.ac.uk/cog-uk/)
+
+
