@@ -13,7 +13,7 @@ Consult our own Metadata Catalogue for either of the following tables:
   *  [[NHS Accommodation status table|MHS_AccomStatus_table]]
   *  [[MHS Employment status table|MHS_EmpStatus_table]]
   *  [[MHS Patient Ind table|MHS_PatInd_table]]
-  *  [[MHS Care Coord table|MHS_CareCoord_table]]
+  *  [[MHS MH Care Coord table|MHS_MHCareCoord_table]]
   *  [[MHS Disability type table|MHS_DisabilityType_table]]
 
 Web references:
