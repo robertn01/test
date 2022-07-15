@@ -275,6 +275,29 @@ Contents
 
 
 <details open>
+<summary>[[NDA|NDA]]</summary>
+<ul>
+<li>
+<details open>
+<summary>Additional Fields</summary>
+<ul>
+</ul>
+</details> 
+</li>
+<li>
+<details open>
+<summary>Case Report Form Definitions</summary>
+<ul>
+<li>[[NDA Core data table|NDA_Core_table]]</li>
+<li>[[NDA BMI data table|NDA_BMI_table]]</li>
+<li>[[NDA Chol data table|NDA_Chol_table]]</li>
+<li>[[NDA Drugs data table|NDA_Drugs_table]]</li>
+<li>[[NDA Hba1c data table|NDA_Hba1c_table]] </li>
+</details> 
+</ul>
+
+
+<details open>
 <summary>[[Test_IGNORE|Test_IGNORE]]</summary>
 <ul>
 <li>
