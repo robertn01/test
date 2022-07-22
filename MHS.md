@@ -12,8 +12,8 @@ Consult our own Metadata Catalogue for either of the following tables:
   *  [[MHS GP data table|MHS_GP_table]] 
   *  [[NHS Accommodation status table|MHS_AccomStatus_table]]
   *  [[MHS Employment status table|MHS_EmpStatus_table]]
-  *  [[MHS Patient Ind table|MHS_PatInd_table]]
-  *  [[MHS MH Care Coord table|MHS_MHCareCoord_table]]
+  *  [[MHS Patient Indicators table|MHS_PatInd_table]]
+  *  [[MHS Mental Health Care Coordinator table|MHS_MHCareCoord_table]]
   *  [[MHS Disability type table|MHS_DisabilityType_table]]
 
 Web references:
