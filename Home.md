@@ -8,7 +8,7 @@ Studies included in this wiki include:
 <summary>[[GPES|GPES]]</summary>
 <summary>[[APC|APC]]</summary>
 <summary>[[IAPT|IAPT]]</summary>
-<summary>[[A&E|A&E]]</summary>
+<summary>[[AE|AE]]</summary>
 <summary>[[NIMS|NIMS]]</summary>
 <summary>[[ECDS|ECDS]]</summary>
 <summary>[[MHS|MHS]]</summary>
