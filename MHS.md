@@ -21,3 +21,5 @@ Web references:
 *  [NHS Digital - Mental Health Services Data Set (MHSDS)](https://digital.nhs.uk/coronavirus/vaccinations/training-and-onboarding/point-of-care/national-immunisation-management-service-nims-app)
 
 *  [NHS Digital - About the Mental Health Services Data Set (MHSDS)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set/about)
+
+*  [NHS Digital - DCB0011: Mental Health Services Data Set](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0011-mental-health-services-data-set) (Please consider the 'Supporting documents' section)
