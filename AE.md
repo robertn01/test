@@ -2,8 +2,8 @@
 
 ! Add brief description !
 
-Consult our own Metadata Catalogue for the [[A&E|AE_main_table]] main table.
+Consult our own Metadata Catalogue for the [[AE|AE_main_table]] main table.
 
 Web references:
 
-*  [Hospital Accident & Emergency (A&E) Activity](https://digital.nhs.uk/data-and-information/publications/statistical/hospital-accident--emergency-activity)
+*  [Hospital Accident & Emergency (AE) Activity](https://digital.nhs.uk/data-and-information/publications/statistical/hospital-accident--emergency-activity)
