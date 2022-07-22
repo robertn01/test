@@ -210,7 +210,7 @@ Contents
 </ul>
 
 <details open>
-<summary>[[A&E|A&E]]</summary>
+<summary>[[AE|AE]]</summary>
 <ul>
 <li>
 <details open>
@@ -223,7 +223,7 @@ Contents
 <details open>
 <summary>Case Report Form Definitions</summary>
 <ul>
-<li>[[A&E main table|AE_main_table]]</li>
+<li>[[AE main table|AE_main_table]]</li>
 </details> 
 </ul>
 
