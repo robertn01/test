@@ -1,4 +1,4 @@
-# Hospital Accident & Emergency (A&E) Activity data set
+# Hospital Accident & Emergency (AE) Activity data set
 
 ! Add brief description !
 
