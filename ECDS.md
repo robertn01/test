@@ -10,7 +10,7 @@ The ECDS collects information about why people attend emergency departments and 
   *  Allow better planning of healthcare services
   *  Improve communication between health professionals
 
-Consult our own Metadata Catalogue for the ECDS table.
+Consult our own Metadata Catalogue for the [ECDS](https://github.com/isaric4c/wiki/wiki/ECDS_main_table) table.
 
 Web references:
 
