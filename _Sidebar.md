@@ -48,7 +48,7 @@ Contents
 
 <li>
 <details open>
-<summary>Research studies</summary>
+<summary>Cleaned ISARIC Datasets</summary>
 <ul>
 <li>[[ISARIC Research Clean table|ISARIC_Research_clean_table]]</li>
 <li>[[ISARIC Research Oneline table|ISARIC_Research_oneline_table]]</li>
