@@ -1,6 +1,5 @@
 | Variable / Field Name   |  Section Header  |  Field Type  |  Field Label                             |  Choices or Calculations                                                            | Comments              |
 |-------------------------|------------------|--------------|------------------------------------------|-------------------------------------------------------------------------------------|-----------------------|
-|  ---------------------  |  --------------  |  ----------  |  --------------------------------------  |  ---------------------------------------------------------------------------------  |                       |
 |  wt\_type               |                  |  radio       |  Type of test                            |  1, 6 Minute Walk Test ; 2, Incremental shuttle walk test (ISWT) Modified 15 level  | notes about walk test |
 |  wt\_done               |                  |  yesno       |  Completed                               |  1, Yes ; 0, No                                                                     |                       |
 |  wt\_visit              |                  |  radio       |  Visit                                   |  1, 3 months ; 2, 12 months ; 3, Additional planned clinical visit                  |                       |
