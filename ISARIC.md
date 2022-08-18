@@ -12,13 +12,15 @@ The above repository also contains information on the structural metadata, for e
 
 **Research studies**
 
-Consult our own Metadata Catalogue for either of the following tables:
+Consult our own Metadata Catalogue for either of the following tables.
 
-  *  [[ISARIC Research Clean table|ISARIC_Research_clean_table]] 
-  *  [[ISARIC Research Oneline table|ISARIC_Research_oneline_table]] 
-  *  [[ISARIC Research Outcome table|ISARIC_Research_outcome_table]] 
+The cleaned ISARIC datasets are provided by SurgicalInformatics, see link below.
+
+  *  [[ISARIC Research Clean table|ISARIC_Research_clean_table]] (the main data table)
+  *  [[ISARIC Research Oneline table|ISARIC_Research_oneline_table]] (amalgamation of topline and outcome)
+  *  [[ISARIC Research Outcome table|ISARIC_Research_outcome_table]] (one of the last rows per-patient)
   *  [[ISARIC Research Surv table|ISARIC_Research_surv_table]] 
-  *  [[ISARIC Research Topline table|ISARIC_Research_topline_table]] 
+  *  [[ISARIC Research Topline table|ISARIC_Research_topline_table]] (the first row per-patient)
   *  [[ISARIC Research Treatment table|ISARIC_Research_treatment_table]] 
 
 Web references:
@@ -27,3 +29,6 @@ Web references:
 
 *  [Outbreak data analysis platform (ODAP)](https://isaric4c.net/analysis-platform/)
 
+*  [ISARIC cleaning by SurgicalInformatics team](https://github.com/SurgicalInformatics/cocin_ccp)
+
+*  [Further study-specific ISARIC cleaning by SurgicalInformatics team](https://github.com/SurgicalInformatics/cocin_cleaning)

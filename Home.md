@@ -10,6 +10,9 @@ Where possible, datasets will have list of all variables which can be supplied, 
 (e.g. number or date), a description, a list of available values, and other metadata. In some cases only the
 data type will be available.
 
+Searching this Wiki can be done by entering a search term in the box on this
+[Wiki Search page](https://github.com/isaric4c/wiki/search?q=data&type=wikis)
+
 Users are encouraged to edit this wiki or, if unfamiliar with GitHub, contact a known collaborator with any changes to be made.
 
 Studies included in this wiki include:
