@@ -11,4 +11,4 @@ Web references:
 
 *  [COG UK VOC Dashboard](https://sars2.cvr.gla.ac.uk/cog-uk/)
 
-
+* [cog_uk_metadata_spec_20210415.pdf](../datadict/cog_uk_metadata_spec_20210415.pdf) [PDF]
