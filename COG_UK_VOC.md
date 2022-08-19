@@ -11,7 +11,6 @@ Web references:
 
 *  [COG UK VOC Dashboard](https://sars2.cvr.gla.ac.uk/cog-uk/)
 
-* [COG-UK-TRE_data_dictionary_v1_020721.pdf](../datadict/COG-UK-TRE_data_dictionary_v1_020721.pdf) [PDF]
+*  Data dictionary for CSV and FASTA files [COG-UK-TRE_data_dictionary_v1_020721.pdf](../datadict/COG-UK-TRE_data_dictionary_v1_020721.pdf) [PDF]
 
-* [cog_uk_metadata_spec_20210415.pdf](../datadict/cog_uk_metadata_spec_20210415.pdf) [PDF]
-
+*  Metadata CSV schema [cog_uk_metadata_spec_20210415.pdf](../datadict/cog_uk_metadata_spec_20210415.pdf) [PDF]
