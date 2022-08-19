@@ -164,7 +164,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[GPES GDPPR main table|GPES_GDPPR_main_table]]</li>
 </details> 
@@ -182,7 +182,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[HES APC main table|HES_APC_main_table]]</li>
 </details> 
@@ -200,7 +200,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[IAPT main table|IAPT_main_table]]</li>
 <li>[[IAPT appointment table|IAPT_appointment_table]]</li>
@@ -221,7 +221,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[AE main table|AE_main_table]]</li>
 </details> 
@@ -239,7 +239,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[NIMS main table|NIMS_main_table]]</li>
 </details> 
@@ -257,7 +257,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[ECDS main table|ECDS_main_table]]</li>
 </details> 
@@ -276,7 +276,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[MHS GP data table|MHS_GP_table]]</li>
 <li>[[NHS Accommodation status table|MHS_AccomStatus_table]]</li>
@@ -301,7 +301,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[NDA Core data table|NDA_Core_table]]</li>
 <li>[[NDA BMI data table|NDA_BMI_table]]</li>
@@ -323,7 +323,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[SGSS|SGSS_main_table]]</li>
 </details> 
@@ -342,7 +342,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[COG UK VOC|COGUK_VOC_main_table]]</li>
 </details> 
@@ -361,7 +361,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[SGTF main table|SGTF_main_table]]</li>
 </details> 
@@ -379,7 +379,7 @@ Contents
 </li>
 <li>
 <details open>
-<summary>Case Report Form Definitions</summary>
+<summary>Table Definitions</summary>
 <ul>
 <li>[[Test main table|Test_main_table]]</li>
 </details> 
