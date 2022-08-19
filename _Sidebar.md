@@ -345,6 +345,8 @@ Contents
 <summary>Table Definitions</summary>
 <ul>
 <li>[[COG UK VOC|COGUK_VOC_main_table]]</li>
+<li>[[COG UK VOC|COGUK_metadata]]</li>
+<li>[[COG UK VOC|COGUK_naive_variants]]</li>
 </details> 
 </ul>
 
