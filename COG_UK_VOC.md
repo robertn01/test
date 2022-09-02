@@ -3,15 +3,7 @@
 Spike protein structures showing locations of amino acid residues that are mutated in each variant of concern (VOC). The spike protein protrudes from the surface of the SARS-CoV-2 virus, is responsible for initating binding to and entry into host cells, and is also the primary target for antibodies that recognise the virus.
 
 Consult our own Metadata Catalogue for the
-* [[COG UK VOC|COGUK_VOC_main_table]] main table,
-* [[COG UK metadata|COGUK_metadata]] metadata,
-* [[COG UK naive variants|COGUK_naive_variants]] naive variants
-
-Data dictionary:
-
-*  Data dictionary for CSV and FASTA files [COG-UK-TRE_data_dictionary_v1_020721.pdf](datadict/COG-UK-TRE_data_dictionary_v1_020721.pdf) [PDF]
-
-*  Metadata CSV schema [cog_uk_metadata_spec_20210415.pdf](datadict/cog_uk_metadata_spec_20210415.pdf) [PDF]
+* [[COG UK VOC|COGUK_VOC_main_table]] main table
 
 Web references:
 
