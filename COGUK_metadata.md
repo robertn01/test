@@ -2,7 +2,7 @@
 |:----------------------|:--------------------|:-------|:----------|:-----------------------------------------------|:------------------------------------------------|
 |~~record_id~~              |                     |Y       |character  |Unique ID for this Record                       |                                                 |
 |~~eupi~~                   |                     |Y       |character  |Encrypted UPI Number                            |                                                 |
-|sequence_name          |sequence_name        |        |character  |                                                |                                                 |
+|sequence_name          |sequence_name        |        |character  |                                                |Where a patient has multiple sequences a numeric suffix will be appended, e.g. `.1` and `.2`   |
 |~~shortid~~                |shortid              |Y       |character  |The middle portion of the 3-part sequence_name  |                                                 |
 |country                |country              |        |character  |                                                |                                                 |
 |adm1                   |adm1                 |        |character  |                                                |                                                 |
