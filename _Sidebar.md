@@ -14,7 +14,7 @@ Contents
 
 
 <li>
-<details open>
+<details>
 <summary>Case Report Form Definitions</summary>
 <ul>
 <li>[[Participant Identification Number (PIN)|Participant Identification Number (PIN)]]</li>
@@ -77,7 +77,7 @@ Contents
 </li>
 
 <li>
-<details open>
+<details>
 <summary>Case Report Form Definitions</summary>
 <ul>
 <li>[[Forms|Forms]]</li>
