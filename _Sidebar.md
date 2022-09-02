@@ -331,6 +331,26 @@ Contents
 
 
 <details open>
+<summary>[[COG_UK|COG_UK]]</summary>
+<ul>
+<li>
+<details open>
+<summary>Additional Fields</summary>
+<ul>
+</ul>
+</details> 
+</li>
+<li>
+<details open>
+<summary>Table Definitions</summary>
+<ul>
+<li>[[COG UK metadata|COGUK_metadata]]</li>
+<li>[[COG UK naive variants|COGUK_naive_variants]]</li>
+</details> 
+</ul>
+
+
+<details open>
 <summary>[[COG_UK_VOC|COG_UK_VOC]]</summary>
 <ul>
 <li>
@@ -345,8 +365,6 @@ Contents
 <summary>Table Definitions</summary>
 <ul>
 <li>[[COG UK VOC|COGUK_VOC_main_table]]</li>
-<li>[[COG UK metadata|COGUK_metadata]]</li>
-<li>[[COG UK naive variants|COGUK_naive_variants]]</li>
 </details> 
 </ul>
 
