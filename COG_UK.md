@@ -9,6 +9,12 @@ Consult our own Metadata Catalogue for the
 * Full alignment (e.g. `cog_alignment.fasta`) in FASTA format
 * Unmasked alignment (e.g. `cog_alignment.fasta`) in FASTA format
 
+A note about identifiers:
+* the main component of the patient identifier is the ISARIC id (in the form `ABCD-0123`)
+* the ISARIC id will be given a numerical suffix (`.1`, `.2`, `.3` etc) because there may be multiple samples per patient
+* the FASTA identifier has that ISARIC id surrounded by /England/ and /year/ (e.g. `/England/ABCD-0123.1/2020`)
+* some patients have multiple ISARIC ids
+
 Data dictionary:
 
 *  Data dictionary for CSV and FASTA files [COG-UK-TRE_data_dictionary_v1_020721.pdf](datadict/COG-UK-TRE_data_dictionary_v1_020721.pdf) [PDF]
