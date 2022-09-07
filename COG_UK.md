@@ -15,6 +15,8 @@ A note about identifiers:
 * the FASTA identifier has that ISARIC id surrounded by /England/ and /year/ (e.g. `/England/ABCD-0123.1/2020`)
 * some patients have multiple ISARIC ids
 
+A note about multiple samples per patient: each physical sample should be assigned exactly one COG ID and any re-sequencing of the same sample should be submitted under the same COG ID. In practise, this is not enforced (and hard to do so anyway) and submitting organisations (including PHE/UKHSA) have often issued new COG IDs for the same sample, resulting in multiple COG IDs actually referring to the same swab. Trying to de-duplicate on sample date is not entirely reliable (frequently off by a day or two in different reports) and it would also be perfectly legitimate to have more than one actually distinct samples (like a throat and a nose swab) on the same day from the same patient.
+
 Data dictionary:
 
 *  Data dictionary for CSV and FASTA files [COG-UK-TRE_data_dictionary_v1_020721.pdf](datadict/COG-UK-TRE_data_dictionary_v1_020721.pdf) [PDF]
