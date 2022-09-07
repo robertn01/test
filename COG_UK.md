@@ -3,11 +3,11 @@
 Spike protein structures showing locations of amino acid residues that are mutated in each variant of concern (VOC). The spike protein protrudes from the surface of the SARS-CoV-2 virus, is responsible for initating binding to and entry into host cells, and is also the primary target for antibodies that recognise the virus.
 
 Consult our own Metadata Catalogue for the
-* [[COG UK metadata|COGUK_metadata]] metadata (e.g. `cog_metadata.csv`)
+* [[COG UK metadata|COGUK_metadata]] metadata (e.g. `cog_metadata.csv`), corresponds to `alignment` patients
 * [[COG UK naive variants|COGUK_naive_variants]] naive variants (e.g. `naive_variants.csv`)
 * Consensus sequence (e.g. `cog_all.fasta`) in FASTA format
 * Full alignment (e.g. `cog_alignment.fasta`) in FASTA format
-* Unmasked alignment (e.g. `cog_unmasked_alignment.fasta`) in FASTA format
+* Unmasked alignment (e.g. `cog_unmasked_alignment.fasta`) in FASTA format, same set of patients as `cog_all`
 
 A note about identifiers:
 * the main component of the patient identifier is the ISARIC id (in the form `ABCD-0123`)
